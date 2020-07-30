@@ -1,4 +1,5 @@
 Kickoff Project Agenda
+
 •	Project Overview (5 minutes)	
 o	Goals / Introduction to Effort
 o	Project Vision / Scope

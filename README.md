@@ -39,6 +39,7 @@ Determine sprint start date for the team. Schedule Sprint 0 session. Identify an
 
 
 Scrum Ceremonies
+
 •	Daily Standup, 15 minutes
 o	Participants: PO, Scrum Master, Team Members
 o	Each participant to answer:
